@@ -37,3 +37,11 @@ Siéntete libre de contribuir al proyecto. Puedes hacer mejoras en el código, a
 ## Licencia
 
 Este proyecto está bajo la Licencia [MIT](LICENSE).
+
+## Futuros cambios
+- Agregar opción de elegir foto, aparte de la cámara.
+- Elegir en qué formato devolver la información (JSON, CSV, Etc).
+- Poder escanear uno tras otro, acumulando la información.
+- Scrappear mejor competencia y precios. Devolver imágenes y precios de posibles libros similares.
+- Armar un post con descripción, título, imágenes del libro. 
+- A analizar: posible implementación de subida automática de posts a instagram y/o marketplace u otras plataformas para la venta del libro. 

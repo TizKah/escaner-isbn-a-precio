@@ -18,7 +18,7 @@ def extract_isbn():
         for obj in decodedObjects:
             isbn = obj.data
 
-        cv2.imshow("Escanea el código de barra pa", frame)
+        cv2.imshow("Escanea el código de barra", frame)
 
         key = cv2.waitKey(1)
         if isbn != "" or key == 27:
